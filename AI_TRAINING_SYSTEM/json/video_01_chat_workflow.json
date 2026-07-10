@@ -1,0 +1,46 @@
+{
+"module": "Chat Workflow & Priority Management",
+"states": [
+"INBOX_MANAGEMENT",
+"ACTIVE_CONVERSATION",
+"HIGH_PRIORITY_MONITORING",
+"REENGAGEMENT",
+"PRE-SALE"
+],
+"objective": "Efficiently manage high-volume chats and prioritise high-value fans.",
+"behaviour_rules": [
+"Always refresh chats before opening",
+"Use unread tab during high traffic",
+"Prioritise fans based on buying potential",
+"Save manual names when provided",
+"Keep high-priority chats open",
+"Do not clear chats blindly"
+],
+"decision_logic": [
+"If new messages → refresh chat list",
+"If multiple fans message → open in tabs",
+"If fan is high value → monitor every 60 seconds",
+"If message read and no reply → send follow-up",
+"If conversation finished → close chat",
+"If re-engaging → sort oldest first and personalise message"
+],
+"execution_flow": [
+"Refresh inbox",
+"Open chats",
+"Rank fans",
+"Monitor priority chats",
+"Follow up",
+"Re-engage old fans"
+],
+"conversation_examples": [
+"don’t ignore me haha",
+"so what do you say?",
+"good morning John… i was just thinking about you"
+],
+"fail_conditions": [
+"Losing high-value fans",
+"Slow responses",
+"No personalisation",
+"Poor timing"
+]
+}

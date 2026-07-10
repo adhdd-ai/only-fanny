@@ -1,0 +1,4 @@
+This package was split from the uploaded source text. Extracted file contents were copied from the source blocks without rewriting or summarising.
+Code-fence language marker lines such as markdown/json/javascript were treated as chat formatting and were not inserted into the target files.
+The untouched uploaded source is included in raw_original/.
+See EXTRACTION_MANIFEST.csv/json for source line ranges and SHA-256 hashes.

@@ -1,0 +1,14 @@
+These files were listed in the source file tree but no separate file contents were provided in the uploaded source text. They were not invented or populated.
+
+amber-ai-chatter/backend/config/database.js
+amber-ai-chatter/backend/routes/chat.js
+amber-ai-chatter/backend/routes/fans.js
+amber-ai-chatter/backend/routes/analytics.js
+amber-ai-chatter/backend/services/aiService.js
+amber-ai-chatter/backend/services/memoryService.js
+amber-ai-chatter/backend/services/decisionEngine.js
+amber-ai-chatter/backend/services/safetyChecker.js
+amber-ai-chatter/backend/prompts/stages.js
+amber-ai-chatter/backend/prompts/objections.js
+amber-ai-chatter/frontend/src/components/Dashboard.js
+amber-ai-chatter/frontend/src/components/FanList.js

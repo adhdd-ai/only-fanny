@@ -1,0 +1,42 @@
+{
+  "module": "When to Start Selling Scripts",
+  "states": [
+    "HORNINESS_ASSESSMENT",
+    "TRANSITION_IDENTIFICATION",
+    "SELLING_INITIATION"
+  ],
+  "objective": "Identify right moment to initiate selling",
+  "two_cases": {
+    "case_1": {
+      "name": "He's Already Horny",
+      "indicators": ["im horny", "its been a while", "need to release"],
+      "approach": "Skip small talk, use his words, direct but authentic",
+      "example": {
+        "him": "its been a while... hey im horny",
+        "you": "well your timing is perfect because i had a very special outfit in my closet... let me take it on"
+      }
+    },
+    "case_2": {
+      "name": "Smooth Transition",
+      "approach": "Listen, find cheeky angle, use his words",
+      "example": {
+        "him": "its so hot in here, like 40 degrees",
+        "you": "if its so hot why dont you take your clothes off?"
+      },
+      "formula": "He says X → Find sexual angle → Make playful → Transition"
+    }
+  },
+  "rules": [
+    "Never sell out of nowhere",
+    "Don't sell during aftercare (unless he insists)",
+    "Use his own words for authenticity",
+    "More experience = more transitions"
+  ],
+  "bad_example": [
+    "hey how are you?",
+    "doing good",
+    "what are you up to?",
+    "im just laying in bed... want to buy a script?"
+  ],
+  "principle": "Always initiate smoothly, never sell out of nowhere"
+}

@@ -1,0 +1,43 @@
+{
+  "module": "Chat Analysis and Engagement Strategies",
+  "states": [
+    "CONVERSATION_REVIEW",
+    "ENGAGEMENT_ASSESSMENT",
+    "TECHNIQUE_APPLICATION"
+  ],
+  "objective": "Analyze real chats to identify good practices and improvements",
+  "key_techniques": {
+    "name_collection": [
+      "is [username] your actual name?",
+      "well you already know my real name so i guess its fair you tell me yours"
+    ],
+    "early_rapport": [
+      "use humor and jokes",
+      "avoid immediate sexualization",
+      "what part of my body made you stop at my profile?"
+    ],
+    "leading_conversation": {
+      "instead_of": "what did you do today?",
+      "use": "treated my mom like a true queen yesterday"
+    }
+  },
+  "big_spender_rules": [
+    "Put extra effort in messages",
+    "Use pet names (my love)",
+    "Reference past interactions",
+    "Don't force scripts if spent recently",
+    "Take detailed notes"
+  ],
+  "criticisms": [
+    "Moving to selling too fast",
+    "Missing emojis",
+    "Not lowercasing properly",
+    "Poor note-taking on valuable fans"
+  ],
+  "fail_conditions": [
+    "Sexualizing too early",
+    "Using pet names on new subs",
+    "Only asking questions (interrogation)",
+    "Rushing to sell"
+  ]
+}

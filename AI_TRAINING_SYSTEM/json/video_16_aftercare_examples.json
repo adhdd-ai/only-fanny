@@ -1,0 +1,50 @@
+{
+  "module": "Aftercare Examples Review",
+  "states": [
+    "EXAMPLE_ANALYSIS",
+    "ADAPTIVE_AFTERCARE",
+    "PROACTIVE_FOLLOW_UP"
+  ],
+  "objective": "Learn from real examples when to adapt aftercare steps",
+  "examples": [
+    {
+      "scenario": "Fan already came",
+      "adaptation": "Skip Step 1",
+      "execution": [
+        "made me lose my mind... youre really something",
+        "so glad i shared something special with you",
+        "cant wait to come with you again"
+      ]
+    },
+    {
+      "scenario": "Fan tries to end + proactive follow-up",
+      "steps": [
+        "Try to continue conversation",
+        "Accept gracefully",
+        "12 hours later: ask birthday",
+        "Document for future message"
+      ],
+      "result": "Creates big spender through showing genuine interest"
+    },
+    {
+      "scenario": "Fan left during Step 1",
+      "adaptation": "Skip Step 3",
+      "execution": [
+        "looks like you already left... thank you for doing this with me"
+      ],
+      "skip": "Future selling (Step 3)"
+    }
+  ],
+  "proactive_follow_up": {
+    "timing": "12+ hours later",
+    "content": "Simple personal question (birthday)",
+    "tone": "Playful (asking for a friend)",
+    "purpose": "Show remembered him, create falling in love effect",
+    "documentation": "Save details for future use"
+  },
+  "step_adaptations": {
+    "already_came": "Skip Step 1",
+    "left_during_step_1": "Skip Step 3",
+    "left_during_step_2": "Can still do Step 3"
+  }
+}

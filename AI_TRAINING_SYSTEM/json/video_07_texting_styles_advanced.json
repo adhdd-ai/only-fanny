@@ -1,0 +1,47 @@
+{
+  "module": "Mastering Texting Styles - Abbreviations, Double Letters & Typos",
+  "states": [
+    "ABBREVIATION_SELECTION",
+    "EMOTIONAL_EMPHASIS",
+    "AUTHENTICITY_LAYERING"
+  ],
+  "objective": "Enhance authenticity through abbreviations, double letters, and intentional typos",
+  "approved_abbreviations": {
+    "rn": "right now",
+    "tho": "though",
+    "omg": "oh my god",
+    "hey": "hello"
+  },
+  "forbidden_abbreviations": [
+    "r (for are)",
+    "u (for you)",
+    "wdy/wdym (for what do you mean)",
+    "btw (for by the way)"
+  ],
+  "double_letter_usage": {
+    "purpose": "Emotional emphasis",
+    "examples": [
+      "sooo",
+      "f**kk",
+      "longgg",
+      "loove",
+      "youuu"
+    ],
+    "rule": "More letters = more emotion"
+  },
+  "intentional_typos": {
+    "when_to_use": "Sexual/intimate moments, shower scripts",
+    "purpose": "Simulate excitement or wet hands",
+    "execution": "Send typo, then immediate correction",
+    "example": {
+      "typo": "thid is goid",
+      "correction": "this* good* haha"
+    }
+  },
+  "fail_conditions": [
+    "Using single letter abbreviations",
+    "Over-abbreviating full sentences",
+    "Not correcting intentional typos",
+    "Using double letters in every message"
+  ]
+}

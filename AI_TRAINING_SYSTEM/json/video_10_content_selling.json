@@ -1,0 +1,91 @@
+{
+  "module": "Content Selling Strategies",
+  "states": [
+    "CONTENT_TYPE_SELECTION",
+    "SCRIPT_EXECUTION",
+    "ALTERNATIVE_SELLING",
+    "VALUE_PROTECTION"
+  ],
+  "objective": "Maximize revenue through strategic content selection",
+  "content_types": {
+    "scripts": {
+      "priority": 1,
+      "description": "Numbered sequences, 19-23 messages",
+      "duration": "30-60 minutes",
+      "pricing": "Ladder system (e.g., $17 to $94)",
+      "structure": "Free teaser → build up → climax at end"
+    },
+    "nudes": {
+      "priority": 2,
+      "description": "Pictures and short videos",
+      "use_case": "Limited time fans",
+      "pricing": "Situation-based"
+    },
+    "single_videos": {
+      "priority": 3,
+      "description": "Longer format, pre-recorded",
+      "use_case": "Fans who bought everything"
+    },
+    "random_pics": {
+      "priority": 4,
+      "description": "Everyday selfies",
+      "pricing": "FREE",
+      "use_case": "Rewards for established fans only"
+    }
+  },
+  "key_rules": [
+    "Scripts are primary revenue source",
+    "Don't sell most explicit content outside scripts",
+    "Match content to fan situation (time, money, history)",
+    "Random pics only as rewards",
+    "Never show what script hasn't shown yet"
+  ],
+  "decision_logic": [
+    "If 30-60 min available → Script",
+    "If limited time → Nudes",
+    "If bought everything → Single videos",
+    "If emotional connection → Random pics free",
+    "If hasn't seen explicit → Only lingerie/teaser"
+  ],
+  "value_protection": [
+    "Most private parts only at end of scripts",
+    "Don't sell outside scripts",
+    "Tease with lingerie instead",
+    "Maintain script exclusivity"
+  ],
+  "fail_conditions": [
+    "Selling explicit content outside scripts",
+    "Starting script with limited time",
+    "Sending free pics to new fans",
+    "Not checking purchase history",
+    "Disappointing without alternative"
+  ]
+}
+✅ STATUS UPDATE
+Completed: 10 of 22 videos
+
+✅ Video 01: Chat Workflow & Priority Management
+✅ Video 02: Terms of Service & Safety Compliance
+✅ Video 03: Note-Taking for Effective Client Interactions
+✅ Video 04: Selling Content with Our System
+✅ Video 05: Understanding OnlyFans Strategy
+✅ Video 06: Texting Style Guidelines
+✅ Video 07: Mastering Texting Styles
+✅ Video 08: Chat Analysis and Engagement Strategies
+✅ Video 09: Dirty Talk - Initiating Conversations
+✅ Video 10: Content Selling Strategies
+Remaining: 12 videos
+
+Next: Send Videos 11, 12, 13 when ready.
+
+Question: Do you want me to start building the actual AI system infrastructure (database, API, decision engine) while we ingest the remaining 12 videos? Or finish all training data first?
+
+NotebookLM logo
+Mastering Emotional Connection in Digital Aftercare
+Shared
+Sources
+Chat
+Studio
+11. Module 5 Dirty Talk 🎬.mp4
+Source guide
+Welcome to module five dirty talk the requirements before starting a script. I already mentioned in last video that we can't start a script if someone is at work. But I will tell you now when can we actually start a script starting off with the time. We can't start a script if he is at work or doesn't have time. Make sure to ask him if he has time in a smooth way. Important is if we don't ask him in a moved way. If we ask him like every other trader, then he already knows what we want to do. What are you up to right now? Or are you alone? I wouldn't want anyone else to see. This are good ways of doing that. A bad way would be, for example, by asking him, do you have time right now? This is something everyone does and therefore kind of loses its flare. It's efficient, yeah, but every creator does that. So, he kind of knows what he's getting into now. what to do if he doesn't have time. Continue talking to him for three to four messages. We want to make sure that he promises to message us when he's at home or when he has time. If the first message we sent him after he told us he's at work is, "Okay, promise me to text me later." Then he knows what's happening. He knows that we're only after the content. So, it's important to make sure to continue talking to him for three to four messages because we don't want him to know it's only about the content. We want to sell the experience and tell him it's not just about the content or at least give him that illusion. So, make sure to do small talk for three to four messages and only then make a promise to talk to you when he's at home. If he's really pushy, as I already said in the last video, say smaller content, say nudes. If he's really pushy, we have to not disappoint him because if he's really pushy, he wants it a lot. And if we then disappoint him, we disappoint by a lot. So save smaller content instead. The intention he has to want a script. There's the We have to ask for the intention. We asked for the time. We have to ask for intention because if we don't know if he wants the script, then we shouldn't sell it. He has to see what's coming kind of. It's like we shouldn't tell him, okay, I want to do some foreplay and sell you four videos where I come at the end. That's not what We want him to know. What we want him to know is, okay, we sell him, we we send him content. Now, we show him what I'm wearing or we show him whatever he wants to see. He mentions he wants to see the model's legs, for example. Tell him that you can show it to him. How to ask for it would be, "Want to see what I'm wearing?" This is very efficient. We can also say, "Let me show you something." This is more in a statement kind of way. And you already know he knows it, he wants it. And of course, smoother ways such as when he's asking for a specific body body part, we can tell him that we're showing him that that we um we do some foreplay now and then show him. So there are different ways to ask for it. Those are a few smooth ways, but the more smooth you can ask for it, the more he initiated it and then you kind of react to it, the better it is. And lastly, of course, I could show you something right now if you really want it. That way he can tell you, "Yeah, I want it. I I really I would really like to see that." Then you have the intention in mind. Last is the initiation. We asked for his time. We asked for his intention. Now we have to initiate the script. Pretty easy. We just say something like hold on or give me a second to prepare. As soon as we know those two things, if you now tell him give me a second to prepare, or I will be right back. And then you can start the script. Why do we do that? It makes it more authentic. Of course, it creates the illusion that it's in the moment. If we tell him, give me a second to prepare, then he already has this doubt in his mind. Okay, is this life right now? Everyone thinks there's only pre-recorded content on the platform. But if we tell him, give me a second to prepare, then he might might now think it's no longer pre-recorded. Wait, prepare for what? Is she going to make the video right now? This is the thought we wanted to have. Thank you very much. I hope you now know how to initiate a script and when to sell the content. And of course, make sure to apply this as early on in the train.

@@ -1,0 +1,56 @@
+{
+  "module": "Objection Handling Strategies - Three-Step Plan",
+  "states": [
+    "POSITIVE_FRAME",
+    "FOMO_APPLICATION",
+    "DISAPPOINTED_CLOSE"
+  ],
+  "objective": "Handle objections using three-step framework",
+  "three_step_framework": {
+    "step_1": {
+      "name": "Positive",
+      "example": "come on, im too horny for this right now",
+      "purpose": "Set fun, light tone"
+    },
+    "step_2": {
+      "name": "FOMO",
+      "example": "im not in mood to negotiate... do you really not want to see it?",
+      "purpose": "Create fear of missing out"
+    },
+    "step_3": {
+      "name": "Disappointed",
+      "example": "come on... i made that special for you... please dont leave me now",
+      "purpose": "End with disappointment, not anger or sadness",
+      "key": "Gives path back to positive"
+    }
+  },
+  "special_cases": {
+    "over_40": {
+      "strategy": "Three steps first, then discount as last resort",
+      "discount_phrase": "just this once... just because it would mean so much to me"
+    },
+    "follow_up": {
+      "purpose": "Get response from silent fan",
+      "step_3_focus": "Make him want to respond"
+    },
+    "why_charge": {
+      "frame": "Comfort/authenticity",
+      "good": "i have to feel comfortable... if i dont charge i feel uncomfortable",
+      "bad": "need to pay rent/bills"
+    },
+    "meetup": {
+      "rule": "Decline without mentioning topic",
+      "new_subs": "slow down... dont even know your name",
+      "regular": "had bad experience in past",
+      "big_spenders": "would feel uncomfortable... might cry... not ready"
+    },
+    "prove_real": {
+      "steps": [
+        "Ask questions to understand root",
+        "Make him feel silly",
+        "FOMO frame",
+        "End positive with gift"
+      ]
+    }
+  }
+}

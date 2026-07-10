@@ -1,0 +1,32 @@
+{
+  "module": "Understanding Progress in Communication",
+  "states": [
+    "PROGRESS_IDENTIFICATION",
+    "TYPE_SELECTION",
+    "QUALITY_EXECUTION"
+  ],
+  "objective": "Make every message contribute to progress",
+  "mantra": "Work IN the chat, not THROUGH the chat",
+  "quality_principle": "1 chat at 10/10 quality > 5 chats at 2/10 quality",
+  "three_types": {
+    "information": {
+      "description": "Gather data through questions",
+      "purpose": "Use for future connection",
+      "examples": ["where are you from?", "what do you do?"]
+    },
+    "connection": {
+      "description": "Build emotional bond",
+      "methods": ["use past information", "make laugh", "compliments", "aftercare", "make fall in love"],
+      "example": "hows your sister? is she out of hospital?"
+    },
+    "selling": {
+      "description": "Move toward sale",
+      "methods": ["dirty talk", "future selling", "script progression"],
+      "example": "want to see what im wearing?"
+    }
+  },
+  "the_path": "INFORMATION → CONNECTION → SELLING",
+  "balance_principle": "Can't pursue only one type — they build on each other",
+  "key_insight": "Using past information creates powerful connection",
+  "review_recommendation": "Review this module 2-3 times — most important"
+}

@@ -1,0 +1,47 @@
+{
+  "module": "Objection Handling Strategies",
+  "states": [
+    "OBJECTION_IDENTIFICATION",
+    "REASON_DEVELOPMENT",
+    "POSITIVE_RESOLUTION"
+  ],
+  "objective": "Convert objections into sales through thoughtful handling",
+  "objection_definition": "Anything you don't want him to say",
+  "core_principles": [
+    "Have valid reason that makes sense to him",
+    "Every sub can be spender",
+    "Never mute on first objection",
+    "End every objection positively"
+  ],
+  "example_conversion": {
+    "scenario": "$100 to $3,000 spender",
+    "objections": ["not transactional", "limited budget", "dont want to spend"],
+    "strategy": "Give connection, not just content",
+    "result": "Big spender"
+  },
+  "ending_comparison": {
+    "best": {
+      "phrase": "please dont leave me",
+      "why": "Disappointed but welcoming, future possible"
+    },
+    "bad": {
+      "phrase": "i thought you were different... selfish",
+      "why": "Negative, insulting"
+    },
+    "too_sad": {
+      "phrase": "i am so heartbroken",
+      "why": "Guilt, hard to return from"
+    }
+  },
+  "positive_endings": [
+    "please dont leave me",
+    "im so glad you came back... what happened?",
+    "i was panicked... glad youre here"
+  ],
+  "fail_conditions": [
+    "Muting on first objection",
+    "Invalid reasons",
+    "Ending negatively",
+    "Being lazy with difficult fans"
+  ]
+}

@@ -1,0 +1,61 @@
+MODULE: Selling Content with Our System
+
+This module explains the technical process of selling content through scripted shortcuts.
+
+Key Principles:
+
+- Always check messages before sending (verify names auto-filled)
+- Never send content without a caption
+- Go through scripts sequentially (1→2→3→4→5→6)
+- Triple-check to avoid duplicate sends
+- Use countdown timer for timed content
+
+Shortcut System:
+
+1S = Script 1, first shortcut
+1S2 = Script 1, second shortcut
+1S5, 1S6 = Send together (not separately)
+
+Script Execution:
+
+Normal Flow: Send → Wait for response → Send next
+Bundled: Send multiple together where indicated
+Timed: Set countdown for video duration, continue working, send when ready
+
+Pre-Send Checklist:
+
+1. Check PPV stats (0/0 = safe to send)
+2. Verify via shortcuts (shows sent/bought status)
+3. Confirm name auto-filled correctly
+4. Add authentic caption
+5. Send
+
+Verification Methods:
+
+- PPV stats (shows sent/bought count)
+- Shortcuts (show status: sent/bought/not sent)
+- Vault/Gallery (visual confirmation)
+- Notes (if chatter documented previous sends)
+
+Handling Preferences:
+
+If fan mentions specific likes (e.g., "loves leggings"):
+- Can skip to relevant script
+- MUST note: "Skipped Script X because [reason]"
+- Inform supervisor of skip
+
+Advanced Manual Selling:
+
+For experienced chatters only:
+- Click "+" to attach content manually
+- Add price manually
+- Add caption
+- Send
+
+Common Mistakes to Avoid:
+
+- Sending duplicates (not checking first)
+- Sending without caption
+- Not verifying name auto-filled
+- Not waiting between script steps
+- Skipping without documentation

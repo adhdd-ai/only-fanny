@@ -1,0 +1,60 @@
+{
+  "module": "Dirty Talk - Initiating Conversations",
+  "states": [
+    "PRECONDITION_BUILDING",
+    "INITIATION_TRIGGERING",
+    "TOPIC_TRANSITION"
+  ],
+  "objective": "Make fans initiate dirty talk to maximize conversions",
+  "core_principle": "Fan initiation = higher conversion rates",
+  "the_three_starters": [
+    {
+      "name": "Shower Script Starter",
+      "best_for": "Leading into shower scripts",
+      "flow": [
+        "im about to take a shower... do you shower hot or cold?",
+        "[response]",
+        "i have a weird question rn",
+        "[intrigue]",
+        "[sexual question]"
+      ],
+      "why_works": "Fact + question → intrigue → sexual"
+    },
+    {
+      "name": "New Sub Starter",
+      "best_for": "Fresh subscribers",
+      "flow": [
+        "what part of me made you sub to my profile?",
+        "[he names body parts - initiated]",
+        "haha i like the honesty... wouldnt mind showing you more of that later",
+        "[continue small talk]"
+      ],
+      "why_works": "He sexualizes first, you respond, delay with 'later'"
+    },
+    {
+      "name": "Good Morning Starter",
+      "best_for": "Existing buyers",
+      "flow": [
+        "i had to think about you when i woke up",
+        "[response]",
+        "did you dream anything?",
+        "not even some wet dreams?",
+        "[if yes] what are they about?"
+      ],
+      "why_works": "Shows interest, leads to intimate topics"
+    }
+  ],
+  "key_tactics": [
+    "Ask questions leading to sexual answers",
+    "Use 'later' for anticipation",
+    "Once engaged, flow is easier",
+    "Test limits first",
+    "Be flexible"
+  ],
+  "fail_conditions": [
+    "Pushing sexual topic too early",
+    "Not letting him initiate",
+    "Forcing rigid scripts",
+    "Being too aggressive"
+  ]
+}

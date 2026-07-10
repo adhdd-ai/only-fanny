@@ -1,0 +1,642 @@
+[
+  {
+    "path": "amber-ai-chatter/.env.example",
+    "source_start_line": 14807,
+    "source_end_line": 14823,
+    "sha256": "2d0ab38e48de512ac8c94e90a142b7b39be58b4497fb522267068268830fcbc5",
+    "bytes": 237,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/README.md",
+    "source_start_line": 14773,
+    "source_end_line": 14803,
+    "sha256": "29b390579a204f3dfcb4d0e41a50f2d88712e3e4ccbf543dc3cc804ed6f978bc",
+    "bytes": 718,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/backend/Dockerfile",
+    "source_start_line": 15037,
+    "source_end_line": 15043,
+    "sha256": "c033b238b1d32ddc347e97903bcf287768683bf5b50ad5289ce8227f53dd0f7c",
+    "bytes": 118,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/backend/package.json",
+    "source_start_line": 15018,
+    "source_end_line": 15033,
+    "sha256": "083948573ab7534f831ac4fb5ffac9b3f0127a576ecf63939b578b92c6a59eb7",
+    "bytes": 334,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/backend/prompts/amberSystem.js",
+    "source_start_line": 15218,
+    "source_end_line": 15338,
+    "sha256": "7e2bde3da3223690ada9c556b40c2f51864a85f205151539e9f1cc1cd564f8c9",
+    "bytes": 3702,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/backend/server.js",
+    "source_start_line": 15047,
+    "source_end_line": 15214,
+    "sha256": "970c05b1afc94fc1717e0068984e33314fddf445756b8af19be77dd573e01949",
+    "bytes": 4544,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/docker-compose.yml",
+    "source_start_line": 14826,
+    "source_end_line": 14880,
+    "sha256": "58148d6fffb0f8cb8a572dc8113a800a7788c2d7b1818453225beeda8ab4a6fb",
+    "bytes": 1255,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/docs/deployment.md",
+    "source_start_line": 15653,
+    "source_end_line": 15696,
+    "sha256": "fb9c62b9e7fd9a8180db6bfac23e59f7511ecc9d02e583dea16bfd36ffebc111",
+    "bytes": 1044,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/frontend/Dockerfile",
+    "source_start_line": 15359,
+    "source_end_line": 15370,
+    "sha256": "0ca0e34bfe5ebac27d9ac8cc47f7d3e50f8382a0956aa49ac5724ac8b82b8ab8",
+    "bytes": 273,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/frontend/nginx.conf",
+    "source_start_line": 15374,
+    "source_end_line": 15392,
+    "sha256": "9ba855d259e539aa7a0653e8a91978c6fa06a76b038864fc9932102e01666154",
+    "bytes": 440,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/frontend/package.json",
+    "source_start_line": 15342,
+    "source_end_line": 15355,
+    "sha256": "5d740f72f82bda0c0a6897d3f705c141349a1fb7e3f932b2518756879f003654",
+    "bytes": 276,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/frontend/public/index.html",
+    "source_start_line": 15396,
+    "source_end_line": 15406,
+    "sha256": "7106eec41b522957e59d64efdec7ca2dd36fb21137aa50013cf0e2207ce7b9f5",
+    "bytes": 242,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/frontend/src/App.js",
+    "source_start_line": 15410,
+    "source_end_line": 15428,
+    "sha256": "de9039c24bc6a4f7e1bc3207aa408c04cb2002ab65bc4f995e0c172f3865f8f9",
+    "bytes": 364,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/frontend/src/components/ChatDemo.js",
+    "source_start_line": 15432,
+    "source_end_line": 15518,
+    "sha256": "df726945ea09b055310ab332c3fc18d85a73401eedeffefd107e7d7c90d85f76",
+    "bytes": 2369,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/frontend/src/styles.css",
+    "source_start_line": 15522,
+    "source_end_line": 15649,
+    "sha256": "3bf95f2282b054e17347bf6a061ce6722886da30f3a14b010cf1d73ee62ed892",
+    "bytes": 1830,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/init-db.sql",
+    "source_start_line": 14883,
+    "source_end_line": 14978,
+    "sha256": "0596e6d9b2db323c1730e3e448afae2cb5fc907fb9745ef177e07df44450a08c",
+    "bytes": 2660,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "amber-ai-chatter/setup.sh",
+    "source_start_line": 14981,
+    "source_end_line": 15014,
+    "sha256": "297ffea6714e92538f9be572c46cf67c445ff6d3e43ef8c8792e71948e22c35b",
+    "bytes": 725,
+    "note": "extracted from amber-ai-chatter file contents section"
+  },
+  {
+    "path": "clean_copy/video_01_chat_workflow.txt",
+    "source_start_line": 1784,
+    "source_end_line": 1827,
+    "sha256": "b30c439d481f67e8dd6b014f9fc22390d2e7ef0f427a781884700c2703f041bb",
+    "bytes": 1236,
+    "note": "extracted from Video 01 Filename/Content block"
+  },
+  {
+    "path": "clean_copy/video_02_tos_safety.txt",
+    "source_start_line": 2042,
+    "source_end_line": 2080,
+    "sha256": "ce50675f1aa7e3ec288777005379176abb4871f76969dc5a13976a909d2123d6",
+    "bytes": 1031,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_03_note_taking.txt",
+    "source_start_line": 2458,
+    "source_end_line": 2515,
+    "sha256": "46cd71e86f4990cf624158dfa54f08699bc22d10fe214a22aa9acaa42e3f9448",
+    "bytes": 1747,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_04_selling_content.txt",
+    "source_start_line": 2897,
+    "source_end_line": 2957,
+    "sha256": "c0ea07acb2680870d74f24ea4aeefa6b40b8c32db3d3650ff61aeceb92c5aa13",
+    "bytes": 1615,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_05_of_strategy.txt",
+    "source_start_line": 3190,
+    "source_end_line": 3256,
+    "sha256": "7847008b0c42cc15c6e308ec3e5c68515d06ffc9f9605cbc2f61a7a65b173e62",
+    "bytes": 2026,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_06_texting_style.txt",
+    "source_start_line": 3518,
+    "source_end_line": 3593,
+    "sha256": "c53a09f9e1a430f6a8a8464b97dccdf216b2cc4c6ba505a82f808f536601650f",
+    "bytes": 1777,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_07_texting_styles_advanced.txt",
+    "source_start_line": 3927,
+    "source_end_line": 3969,
+    "sha256": "e487809316a2897e1685d03c8d1dc04c2b25fa803cc2d59a54e84c0fa16b47b7",
+    "bytes": 1151,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_08_chat_analysis.txt",
+    "source_start_line": 4165,
+    "source_end_line": 4215,
+    "sha256": "19a0da71eb4f57a35dd8d2d2926a79dcc7bafbb7da7d5c83db983a5305b1a6e3",
+    "bytes": 1428,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_09_dirty_talk_initiation.txt",
+    "source_start_line": 4418,
+    "source_end_line": 4474,
+    "sha256": "852f6d1b3afddb59667df82b472031a7c2eb90393afd559c5be97c384b114193",
+    "bytes": 1684,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_10_content_selling.txt",
+    "source_start_line": 4725,
+    "source_end_line": 4783,
+    "sha256": "37decc9dc4d8e3c949ea16878628ed1bd84bf595fe89a7b3126359c40cd29875",
+    "bytes": 1546,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_11_script_requirements.txt",
+    "source_start_line": 5134,
+    "source_end_line": 5182,
+    "sha256": "308fe8c1e81e28071b41826b5846a7525ee4a8146180598a0522ee068f77d307",
+    "bytes": 1266,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_12_chat_techniques.txt",
+    "source_start_line": 5394,
+    "source_end_line": 5451,
+    "sha256": "bcc68045d87b7edd50dc7869ba0d5594399bfeae8aa5d6b94198cd96f1e6c879",
+    "bytes": 1458,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_13_aftercare_strategies.txt",
+    "source_start_line": 5653,
+    "source_end_line": 5706,
+    "sha256": "aba6f3d0d3d1b8a0b7455673e5a76cc9fe840add1de2d5bfd633e55fd89b0b88",
+    "bytes": 1316,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_14_three_step_aftercare.txt",
+    "source_start_line": 5930,
+    "source_end_line": 5977,
+    "sha256": "3f34adbd9d35cd325036dde5aa9831b783fe74002f9b25f0180ae3942ee9cde8",
+    "bytes": 1420,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_16_aftercare_examples.txt",
+    "source_start_line": 6337,
+    "source_end_line": 6412,
+    "sha256": "5a5a563913b00c58c3dea7a3e469c0e76366a8261eadf430e8943dcee2d09ee0",
+    "bytes": 1877,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_17_objection_handling.txt",
+    "source_start_line": 6643,
+    "source_end_line": 6694,
+    "sha256": "a2c694716f2e4b5e05b776511927550043ef515665fdab877e275dbaf65b38c0",
+    "bytes": 1356,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_18_objection_dodging.txt",
+    "source_start_line": 6922,
+    "source_end_line": 6982,
+    "sha256": "dad27761529ab9c5f7e724199a62962ebad0a64e0a6ecbc156bcb8ee159b847b",
+    "bytes": 1635,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_19_objection_three_step.txt",
+    "source_start_line": 7385,
+    "source_end_line": 7440,
+    "sha256": "da81c3411890de0c975f77380805dbff13226698e989fc5aff4e5de02c94127a",
+    "bytes": 1687,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_20_progress_mindset.txt",
+    "source_start_line": 7685,
+    "source_end_line": 7745,
+    "sha256": "17d00beb539b3be364c4f0e18c2c1389b30fff9656fbc13dbefed948cdbc8567",
+    "bytes": 1187,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_21_conversation_building.txt",
+    "source_start_line": 8001,
+    "source_end_line": 8071,
+    "sha256": "8d66273bc6c84118dd9e2c1cfa3f6cf1acf4bda995a1a371a2ddced9ca1e090e",
+    "bytes": 1521,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "clean_copy/video_22_when_to_sell.txt",
+    "source_start_line": 8332,
+    "source_end_line": 8382,
+    "sha256": "f57112809e069d3e76900eee2d8a31f4aa9d977db268b0ad2cb1df0f55a9eece",
+    "bytes": 1252,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_01_chat_workflow.json",
+    "source_start_line": 1833,
+    "source_end_line": 1878,
+    "sha256": "721bbc060a49fbd3bbb1f5595ba3ed6f939055b604773e1043c2f51defd3f2f7",
+    "bytes": 1175,
+    "note": "extracted from Video 01 Filename/Content block"
+  },
+  {
+    "path": "json/video_02_tos_safety.json",
+    "source_start_line": 2084,
+    "source_end_line": 2126,
+    "sha256": "34a6b0e4fbc5d58a10d7f70bac705895bdc8eb02a662973e201957d8a6d208f0",
+    "bytes": 1114,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_03_note_taking.json",
+    "source_start_line": 2520,
+    "source_end_line": 2612,
+    "sha256": "6a655c0b9c9ae28a5ac301ad151fe0cf3dd5e868aef0cab9b37c4b12ec8625aa",
+    "bytes": 3376,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_04_selling_content.json",
+    "source_start_line": 2962,
+    "source_end_line": 3023,
+    "sha256": "9a238beae7005e9824bc4e35962a27894964f73b36f863111129232cf2f3fbc2",
+    "bytes": 2031,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_05_of_strategy.json",
+    "source_start_line": 3261,
+    "source_end_line": 3322,
+    "sha256": "4834c01ee0beb9ad3e5f35830bc407d7bd44bdfb72a1a769f05fec9cc1143570",
+    "bytes": 2023,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_06_texting_style.json",
+    "source_start_line": 3598,
+    "source_end_line": 3684,
+    "sha256": "0b9de52be646bf07980a31874234eb228c540dc333996acb5cb27d17ec1fe74c",
+    "bytes": 6396,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_07_texting_styles_advanced.json",
+    "source_start_line": 3974,
+    "source_end_line": 4020,
+    "sha256": "7b7ccd127e17bc3fbcdd2fb1a2b92ce8dd28d64d59bc84348419835f07430790",
+    "bytes": 1243,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_08_chat_analysis.json",
+    "source_start_line": 4220,
+    "source_end_line": 4262,
+    "sha256": "9dd67cf2b9acfc65f8a569d016ab76cd1a2d1ba3661f7db80252ca4e6b03f39f",
+    "bytes": 1232,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_09_dirty_talk_initiation.json",
+    "source_start_line": 4479,
+    "source_end_line": 4538,
+    "sha256": "809346438acee9324b6976a19dfffeebbc90be6df07ba6cdbbaecbbd40da1dd0",
+    "bytes": 1784,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_10_content_selling.json",
+    "source_start_line": 4788,
+    "source_end_line": 4878,
+    "sha256": "18d0fe584f0e2383e5f6759d9f88ba0e06dac8f40cbbefac09914a0a9a1449af",
+    "bytes": 7185,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_11_script_requirements.json",
+    "source_start_line": 5187,
+    "source_end_line": 5231,
+    "sha256": "ea8a32ac5e9e11921eb675c8a3db7b854aa8ce694660e08edbdeacd6688d89de",
+    "bytes": 1262,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_12_chat_techniques.json",
+    "source_start_line": 5456,
+    "source_end_line": 5510,
+    "sha256": "159dab90f8843783f1c576cbf919f11bb17ac09ff6b76c312b7bb0afd0926854",
+    "bytes": 1607,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_13_aftercare_strategies.json",
+    "source_start_line": 5711,
+    "source_end_line": 5750,
+    "sha256": "5ba3af6bc74f8e8e30ed73a90d9d17528bcdbe06a5e5223c705e64af3a8dd963",
+    "bytes": 1249,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_14_three_step_aftercare.json",
+    "source_start_line": 5982,
+    "source_end_line": 6052,
+    "sha256": "853ed20b2ab8e3933af36ffff0d0b4da7eff9a4033bb53f58eb60ecfe9b0d00f",
+    "bytes": 3063,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_16_aftercare_examples.json",
+    "source_start_line": 6417,
+    "source_end_line": 6466,
+    "sha256": "1d88cf255b0561204758dbad25012e6e5e213d930c83dce8bd12ebd7200a21cd",
+    "bytes": 1493,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_17_objection_handling.json",
+    "source_start_line": 6699,
+    "source_end_line": 6745,
+    "sha256": "48ac5b18305b6549560fa48ee22b56ab414c561c514a56e7df154e8ce6b6f86e",
+    "bytes": 1370,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_18_objection_dodging.json",
+    "source_start_line": 6987,
+    "source_end_line": 7058,
+    "sha256": "9a1d5fd538824b32a36df88cf1530b8de3f0a36e7cce2ed4e3cdba6bc64d40e2",
+    "bytes": 19102,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_19_objection_three_step.json",
+    "source_start_line": 7445,
+    "source_end_line": 7500,
+    "sha256": "b4e2bb0ccb15f92b53988b7533cd9f5d62eaf607c8f6bb8b99f619ed33ebac81",
+    "bytes": 1778,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_20_progress_mindset.json",
+    "source_start_line": 7750,
+    "source_end_line": 7781,
+    "sha256": "e55f474a09fbb944913408cf9698a1f6616ba6229690d2c79e97889d9bfaba6b",
+    "bytes": 1268,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_21_conversation_building.json",
+    "source_start_line": 8076,
+    "source_end_line": 8152,
+    "sha256": "126439b0466c8752b6366fd64cb752ca5c3053926ca728d07defe493f161faf6",
+    "bytes": 4845,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "json/video_22_when_to_sell.json",
+    "source_start_line": 8387,
+    "source_end_line": 8428,
+    "sha256": "e07afeef1ac2365b8a570360b10157f721762e4122dd2602a9a52feb33cd895f",
+    "bytes": 1390,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_01_chat_workflow.md",
+    "source_start_line": 1703,
+    "source_end_line": 1778,
+    "sha256": "73907d5ec0caf2e95c35c3a0f048d2163269f0f8d6292d25066045c400a391dc",
+    "bytes": 1837,
+    "note": "extracted from Video 01 Filename/Content block"
+  },
+  {
+    "path": "modules/video_02_tos_safety.md",
+    "source_start_line": 1904,
+    "source_end_line": 2039,
+    "sha256": "b8d2efd264ef99e53565a5592acffd365c655c983076ca5cc16eeb1f2917fc0b",
+    "bytes": 2770,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_03_note_taking.md",
+    "source_start_line": 2295,
+    "source_end_line": 2454,
+    "sha256": "8545c8c674ecbc03aea0cab1df3205336db2f69d6a3b3fac9c39e98c207fbe07",
+    "bytes": 4050,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_04_selling_content.md",
+    "source_start_line": 2739,
+    "source_end_line": 2893,
+    "sha256": "d5b3d00419b12b974b1ab62d947fec507fbcb11490be2984e2d20dda233e878a",
+    "bytes": 3976,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_05_of_strategy.md",
+    "source_start_line": 3029,
+    "source_end_line": 3186,
+    "sha256": "c24b05eb1f105f6a910a66fb3325c5c9c99b5d6e97228a76fc6353b31f3b7672",
+    "bytes": 4342,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_06_texting_style.md",
+    "source_start_line": 3328,
+    "source_end_line": 3514,
+    "sha256": "e1dbe3215b4a6b257d39e05473da9b802484831586aa875d71b6c5b91817f9b5",
+    "bytes": 4571,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_07_texting_styles_advanced.md",
+    "source_start_line": 3797,
+    "source_end_line": 3923,
+    "sha256": "049498cbeeb800d3c4589042e85734443004fa20d809b1a4ef699f73ba5d48ef",
+    "bytes": 2954,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_08_chat_analysis.md",
+    "source_start_line": 4026,
+    "source_end_line": 4161,
+    "sha256": "12c1ee9fcae3c9087ca8c7668abe8949112cc9fa6e4f5a298db72d112718d5cc",
+    "bytes": 3338,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_09_dirty_talk_initiation.md",
+    "source_start_line": 4268,
+    "source_end_line": 4414,
+    "sha256": "d265dfcdb75ef426aa674e4b8c59aa240ee747f1aa7fee4d200d4282ef502132",
+    "bytes": 3438,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_10_content_selling.md",
+    "source_start_line": 4544,
+    "source_end_line": 4721,
+    "sha256": "05cebbe8477cff2509832139e4b1cb978da5fd4b27b85d30ba640d3197e39958",
+    "bytes": 4249,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_11_script_requirements.md",
+    "source_start_line": 4987,
+    "source_end_line": 5130,
+    "sha256": "519f6978d0711bcb618803f584e9c9ff13dfc48654e6090bb3a8b46221bcacfb",
+    "bytes": 3752,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_12_chat_techniques.md",
+    "source_start_line": 5237,
+    "source_end_line": 5390,
+    "sha256": "46fcbabb44080ecd93f5099866e323754ffcdff343a5dd620ffbbbaef7bd245f",
+    "bytes": 3888,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_13_aftercare_strategies.md",
+    "source_start_line": 5516,
+    "source_end_line": 5649,
+    "sha256": "9bf23fddb4a60750dc21db54729ab4a68fcc7b8fcba7c912ed035fd3d41152c5",
+    "bytes": 3269,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_14_three_step_aftercare.md",
+    "source_start_line": 5756,
+    "source_end_line": 5926,
+    "sha256": "bfe5636b60af0eff42d947ccb9dc2474651265c341f25a113966f88b88766816",
+    "bytes": 4390,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_16_aftercare_examples.md",
+    "source_start_line": 6161,
+    "source_end_line": 6333,
+    "sha256": "35b665217b626e3c05dc347bb692780a81c4fa6b575eda8922fa70297c0a62d7",
+    "bytes": 4932,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_17_objection_handling.md",
+    "source_start_line": 6472,
+    "source_end_line": 6639,
+    "sha256": "03798aa59af80d37b085a88b0a702838e728b8e7d8a5ccb22b9456d714d2108b",
+    "bytes": 4304,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_18_objection_dodging.md",
+    "source_start_line": 6751,
+    "source_end_line": 6918,
+    "sha256": "b118a612ea53639393de8c9cf9da3ef946d584df1bbc338307b5e2a06eecbd45",
+    "bytes": 4404,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_19_objection_three_step.md",
+    "source_start_line": 7169,
+    "source_end_line": 7381,
+    "sha256": "2cce80080e2ff13e68a7a823a913f6e18f5398e605920998471bc112a79bf05e",
+    "bytes": 6176,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_20_progress_mindset.md",
+    "source_start_line": 7506,
+    "source_end_line": 7681,
+    "sha256": "4eaba0f3c779a3062d86b39e099c6c636f476aae9ed6b80ca3bc8749807e0b32",
+    "bytes": 3888,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_21_conversation_building.md",
+    "source_start_line": 7787,
+    "source_end_line": 7997,
+    "sha256": "4075a3a94fa79b9affb56f4576f7b9d08a90fbe2164bc51e3199e839a8dd2411",
+    "bytes": 5049,
+    "note": "extracted from Path block"
+  },
+  {
+    "path": "modules/video_22_when_to_sell.md",
+    "source_start_line": 8163,
+    "source_end_line": 8328,
+    "sha256": "8802fbe42afd0ec1ac7973d8ec7dc4d4972f1cf587c57f8eb5cb0a9a1a40a6d8",
+    "bytes": 3667,
+    "note": "extracted from Path block"
+  }
+]

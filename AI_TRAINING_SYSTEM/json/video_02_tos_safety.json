@@ -1,0 +1,43 @@
+{
+"module": "Terms of Service & Safety Compliance",
+"states": [
+"GLOBAL",
+"MESSAGE_VALIDATION",
+"REQUEST_HANDLING",
+"RISK_PREVENTION"
+],
+"objective": "Ensure compliance and prevent bans while maintaining natural interaction.",
+"hard_constraints": [
+"Do not upload media from personal PC",
+"Do not record live audio or video",
+"Do not schedule messages",
+"Do not mention Terms of Service",
+"Do not repeat forbidden topics",
+"Do not express sympathy toward forbidden topics"
+],
+"soft_constraints": [
+"Avoid transactional language",
+"Maintain authenticity"
+],
+"decision_logic": [
+"If request is forbidden → decline without repeating",
+"If message contains forbidden words → rephrase or block",
+"If unsure → do not send",
+"If declining → use neutral comfort-based response"
+],
+"execution_flow": [
+"Scan message",
+"Detect risk level",
+"Classify safe or forbidden",
+"Respond or decline accordingly"
+],
+"conversation_examples": [
+"i'm not really comfortable with that"
+],
+"fail_conditions": [
+"Repeating forbidden topics",
+"Mentioning rules or TOS",
+"Using transactional language",
+"Uploading unsafe content"
+]
+}

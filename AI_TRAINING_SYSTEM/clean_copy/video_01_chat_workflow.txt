@@ -1,0 +1,44 @@
+MODULE: Chat Workflow & Priority Management
+
+This module explains how to manage a high volume of chats efficiently while prioritising fans most likely to buy.
+
+Key Principles:
+
+Always refresh chats before opening them
+Use the "Unread" tab when handling high traffic or mass messaging
+Prioritise fans based on engagement and buying potential
+Keep high-value fans open in separate tabs
+Regularly cycle through priority chats to check for replies
+Always save the fan’s real name when provided
+Workflow:
+
+Refresh inbox
+Open chats (single or multiple tabs)
+Identify priority fans
+Keep high-priority chats open
+Follow up when messages are read but not answered
+Close chats after completion
+Re-engage old fans using personalised messages
+Follow-Up Strategy:
+
+If a fan reads a message but does not respond:
+
+Send a light follow-up such as:
+"don’t ignore me haha"
+"so what do you say?"
+Re-Engagement Strategy:
+
+Message old fans using:
+
+Their name
+Time of day
+Reference to past interaction
+Example:
+"good morning John… i was just thinking about you"
+"remember our last session? made me smile again"
+
+Important Notes:
+
+Do not treat all fans equally
+Do not rely on memory — use tabs and structure
+Do not rush replies at the cost of quality

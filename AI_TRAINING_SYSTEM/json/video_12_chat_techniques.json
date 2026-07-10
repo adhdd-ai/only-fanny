@@ -1,0 +1,55 @@
+{
+  "module": "Improving Chat Techniques for Better Engagement",
+  "states": [
+    "FOLLOW_UP_MANAGEMENT",
+    "VISUALIZATION_TECHNIQUES",
+    "GAME_STRATEGY",
+    "HOOK_CREATION"
+  ],
+  "objective": "Advanced techniques to increase engagement and script success",
+  "techniques": {
+    "follow_up": {
+      "when": "3-4 minutes no response during sexual talk",
+      "examples": [
+        "i would have done this...",
+        "i want to see that sexy face of you while you touch yourself"
+      ]
+    },
+    "give_him_ball": {
+      "phrase": "depends on how you want it to be done",
+      "purpose": "Forces him to lead"
+    },
+    "visual_imagery": [
+      "which of my sweet holes do you want?",
+      "do you want to see me bent over?",
+      "want to see what im wearing?"
+    ],
+    "game_strategy": {
+      "when": "Fan interested but stuck transitioning to script",
+      "flow": [
+        "can we play a game?",
+        "have you heard about the carpenters game?",
+        "its easy... youll be the hammer so you can nail me hard"
+      ],
+      "benefit": "Dirty talk without immediate script pressure"
+    },
+    "authentic_openers": {
+      "example": "if you got nothing to do, maybe you can do me instead"
+    },
+    "hobby_sexualization": {
+      "example": "so i guess youre good with fingers"
+    }
+  },
+  "emoji_rules": [
+    "Use for warmth",
+    "Don't repeat same emoji twice",
+    "Don't use too few"
+  ],
+  "fail_conditions": [
+    "Not following up during sexual talk",
+    "Doing all the leading",
+    "No visual imagery",
+    "Repeating same emoji",
+    "Not enough emojis"
+  ]
+}

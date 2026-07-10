@@ -1,0 +1,62 @@
+{
+  "module": "Selling Content with Our System",
+  "states": [
+    "SCRIPT_SELECTION",
+    "MESSAGE_COMPOSITION",
+    "PRE_SEND_VALIDATION",
+    "SCRIPT_EXECUTION",
+    "PPV_VERIFICATION"
+  ],
+  "objective": "Execute scripted content sales while avoiding duplicates and maintaining authenticity",
+  "behaviour_rules": [
+    "Check messages before sending (verify names)",
+    "Go through scripts sequentially",
+    "Never send without caption",
+    "Double-check PPV stats before sending",
+    "Use countdown for timed content",
+    "Send bundled messages together",
+    "Wait for responses between steps",
+    "Note down any skipped scripts",
+    "Triple-check to prevent duplicates"
+  ],
+  "decision_logic": [
+    "If sending scripted content → verify not already sent via PPV stats",
+    "If message has price → can adjust manually",
+    "If script says 'send together' → send both simultaneously",
+    "If script says 'wait' → pause for fan response",
+    "If fan has specific preference → can skip to relevant script (with documentation)",
+    "If content has duration → set countdown timer",
+    "If fan already received → do not send duplicate"
+  ],
+  "execution_flow": [
+    "Check PPV stats",
+    "Verify via shortcuts",
+    "Select script/shortcut",
+    "Attach content and price",
+    "Validate name auto-filled",
+    "Add caption",
+    "Send",
+    "Set countdown if needed",
+    "Note any skips"
+  ],
+  "shortcut_system": {
+    "format": "1S, 1S2, 1S3, etc.",
+    "meaning": "Script number + Shortcut number",
+    "bundled_example": "1S5 and 1S6 sent together",
+    "sequential_flow": "1→2→3→4→5→6"
+  },
+  "verification_methods": [
+    "PPV stats (0/0 = safe)",
+    "Shortcuts (show sent/bought)",
+    "Vault/Gallery (visual backup)",
+    "Notes (chatter documentation)"
+  ],
+  "fail_conditions": [
+    "Sending duplicate content",
+    "Sending without caption",
+    "Not checking name auto-fill",
+    "Skipping without noting",
+    "Not waiting between steps",
+    "Forgetting countdown"
+  ]
+}

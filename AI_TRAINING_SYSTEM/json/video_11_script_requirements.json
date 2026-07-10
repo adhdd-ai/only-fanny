@@ -1,0 +1,45 @@
+{
+  "module": "Requirements Before Starting a Script",
+  "states": [
+    "TIME_VERIFICATION",
+    "INTENTION_ASSESSMENT",
+    "SCRIPT_INITIATION"
+  ],
+  "objective": "Verify time and intention before starting script",
+  "three_requirements": [
+    {
+      "requirement": "TIME",
+      "smooth_questions": [
+        "what are you up to rn?",
+        "are you alone? i wouldnt want anyone else to see"
+      ],
+      "bad_question": "do you have time right now?",
+      "if_no_time": "Continue 3-4 messages small talk, then ask for promise to return",
+      "if_pushy": "Sell nudes instead of starting script"
+    },
+    {
+      "requirement": "INTENTION",
+      "checks": [
+        "want to see what im wearing?",
+        "let me show you something",
+        "i could show you something right now if you really want it"
+      ],
+      "action": "Wait for confirmation he wants it"
+    },
+    {
+      "requirement": "INITIATION",
+      "phrases": [
+        "hold on",
+        "give me a second to prepare",
+        "ill be right back"
+      ],
+      "purpose": "Create live illusion"
+    }
+  ],
+  "fail_conditions": [
+    "Starting without time",
+    "Asking obvious time question",
+    "Immediately asking to return",
+    "Starting without intention check"
+  ]
+}
