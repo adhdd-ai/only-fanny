@@ -1,7 +1,7 @@
 {
   "name": "amber-ai-chat",
   "version": "1.0.0",
-  "description": "Amber AI Chat Application",
+  "description": "Amber AI Chat with Full Training System",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
